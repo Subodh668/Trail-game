@@ -1,2 +1,2 @@
-# Trail-game
-first godot trail game
+# Godot-Trail-game
+first 3d demo game in godot for learning
